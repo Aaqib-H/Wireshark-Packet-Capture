@@ -15,7 +15,10 @@ The project aimed to simulate the role of a security analyst to capture and anal
 - Using display filters and analyzing HTTP and HTTPS traffic
 - Identifying IP addresses and packet contents in real time
 - Understanding network communication patterns
-  
+
+### Project Outcome
+The project successfully identified malicious traffic patterns on a simulated server, enhancing skills in capturing, filtering, and analyzing network packets for improved security insights.
+
 ### Project Certificate Of Completion
 ![cert](https://github.com/user-attachments/assets/e7ceb25f-08fe-4784-8bbe-426d57ab5e6a)
 
